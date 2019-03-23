@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 //添加<title>标题
 function RM_add_theme_support_title(){
 	add_theme_support( 'title-tag' );
